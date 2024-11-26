@@ -1,0 +1,66 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.env
+.env
+
+# Django 관련
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.coverage
+.coverage.*
+
+# Node.js / Vue 3 / Tailwind CSS 관련
+node_modules/
+dist/
+public/assets/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# 개발 도구 관련
+.vscode/
+.idea/
+
+# 환경 설정 파일
+*.env.local
+*.env.*.local
+.env
+.env.*
+!.env.example
+
+# 배포 관련
+.vite/
+.vite-temp/
+*.bak
+*.swp
+
+# Virtual Environment
+venv/
+.virtualenv/
+.virtualenvs/
+
+# macOS 및 Windows 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows 특정 파일
+*.lnk  # 바로가기 파일
+*.tmp  # 임시 파일
+*.crdownload  # 다운로드 중간 파일
+ntuser.dat  # 사용자 설정 파일
+ehthumbs.db  # Windows 미리보기 캐시
