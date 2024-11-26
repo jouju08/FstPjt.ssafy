@@ -17,6 +17,7 @@
    cd final-pjt-back
    pip install -r requirements.txt
    python manage.py investment_styles
+   python manage.py exchange
    
    ```
 
