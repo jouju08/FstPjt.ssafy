@@ -94,7 +94,7 @@ MoneyMate는 **클라이언트-서버 구조**로 설계된 웹 애플리케이�
 
 다음은 프로젝트 데이터베이스 설계를 나타내는 ERD입니다:
 
-![ERD 다이어그램](./path_to_your_uploaded_erd_image.png)
+![ERD 다이어그램](./readme-img/erd.png)
 
 ---
 
